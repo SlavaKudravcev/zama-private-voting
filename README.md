@@ -5,6 +5,3 @@ A confidential voting smart contract built using Fully Homomorphic Encryption (F
 - Written in Solidity for the [Zama FHEVM](https://www.zama.ai/)
 - All vote counts are stored and processed in encrypted form.
 - Includes TypeScript tests.
-
-## Structure
-- `contracts/FHEVoting.sol` — Main contract source
